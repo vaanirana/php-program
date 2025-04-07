@@ -17,7 +17,7 @@
     }
     else
     {
-       echo "File $filename does not exit";
+       echo "File $filename does not exist";
 
     }
     echo"<br>";
